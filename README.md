@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 Thanks for taking a few minutes out of your day to stop by and see what I'm up to.
 
 Currently working on
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="PHP" style="vertical-align: -0.3em;"/> ***Miniature Wargaming Project Tracker*** (private repository) - 
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="PHP" align="absmiddle"/> ***Miniature Wargaming Project Tracker*** (private repository) - This is a way to keep track of army assembly and painting for tabletop miniature wargaming, which in this case is 99% Warhammer 40K. Allowing for granular detail within an army, such as which kits are in progress, what the status of each miniature within that kit is (assmbled, primed, painting in progress, etc.), as well as any paint schemes or recipes involved in polishing it.
