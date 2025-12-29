@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Thanks for taking a few minutes out of your day to stop by and see what I'm up to.
+
+Currently working on
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="PHP" style="vertical-align: -0.3em;"/> ***Miniature Wargaming Project Tracker*** (private repository) - 
